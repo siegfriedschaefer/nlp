@@ -1,0 +1,31 @@
+---
+title: "Beginner's Guide to Natural Language Processing"
+format:
+  html:
+    code-fold: true
+    code-block-bg: true
+    code-block-border-left: true
+    code-line-numbers: true
+    code-copy: hover
+    highlight-style: arrow
+---
+## NLP - Natural Language Processing
+*NLP* is a field of linguistics and machine learning trying to understand *everything related to human language*.
+By doing this *NLP* tries to understand the context and the meaning of a sentence.
+
+Common NLP tasks are
+
+
+* ***[Classifying whole sentences](sentence_classification.qmd)***
+
+* ***Classifying each word in a sentence***
+
+* ***Generating text content***
+
+* ***Extracting an answer from a text***
+
+* ***Generating a news sentence from an input text***
+
+I will examine a few topics of NLP to get somehow a feeling of how it works and how someone can use it.
+I will start with the different tasks of *Classifying whole sentences*.
+

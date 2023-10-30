@@ -1,0 +1,12 @@
+---
+title: "Post 003"
+description: "Description"
+author: "SiggiS"
+date: "10/11/2023"
+categories:
+    - Code
+
+format:
+        html:
+            code-fold: true
+---
