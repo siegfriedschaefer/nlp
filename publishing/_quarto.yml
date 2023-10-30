@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "AI Rookie Series"
+  navbar:
+    right:
+      - nlp_tasks.qmd
+      - blog.qmd
+      - about.qmd
+  sidebar:
+    contents:
+    - section: "NLP"
+      contents:
+        - href: index.qmd
+        - href: nlp_tasks.qmd
+    - section: "Sentence Classification"
+      contents:
+        - href: sentence_classification.qmd 
+
+  page-navigation: true
+
+  page-footer: 
+    center: "(c) AI Rookie Series, Siegfried Schaefer, 2023" 
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/ 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

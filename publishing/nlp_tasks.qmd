@@ -1,0 +1,35 @@
+---
+title: "NLP Tasks"
+format:
+        html:
+            code-fold: true
+---
+
+***[Sentence classification](sentence_classification.qmd)***
+
+* get the sentiment of a review
+* determine if a sentence is grammatically correct
+* detect if an email is spam
+* identify the logical relationship between two sentences
+
+***Classifying each word in a sentence***
+
+* identify the grammatical components of a sentence (noun, verb, adjective)
+* identify the named entities (person, location, organization)
+
+***Generating text content***
+
+* complete a prompt with auto-generated text
+* fill in the blanks in a text with masked words
+
+***Extracting an answer from a text***
+
+* extract the answer to a given question based on the information provided on a given context
+
+***Generating a news sentence from an input text***
+
+* translate a given text into another language
+* summarize a given text
+
+
+
